@@ -15,6 +15,7 @@ dependencies:
   get: 4.6.5
   google_fonts: ^4.0.3
   logger: ^1.2.2
+  startapp_sdk: ^0.4.1
   video_player: ^2.5.2
 
 dev_dependencies:
